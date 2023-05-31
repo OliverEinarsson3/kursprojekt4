@@ -1,0 +1,59 @@
+form {  /*style och HTML tagen från en annan hemsida för att jag inte kunde lista ut hur man gjorde det. Den är inte viktig för hemsidan men en bra detalj*/
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f7f7f7;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 500px;
+    margin: 0 auto;
+    margin-top: 2%;
+}
+  
+  .form-group {
+    margin: 10px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+  
+  label {
+    margin-bottom: 5px;
+    font-weight: bold;
+    text-align: center;
+    color: #333;
+}
+  
+  input {
+    padding: 10px;
+    border: none;
+    border-bottom: 2px solid #0077be;
+    font-size: 16px;
+    text-align: center;
+    background-color: transparent;
+    color: #333;
+    width: 100%;
+    transition: all 0.2s ease-in-out;
+}
+  
+  input:focus {
+    outline: none;
+    border-bottom: 2px solid #c8102e;
+}
+  
+  button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: #0077be;
+    color: #fff;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+}
+  
+  button:hover {
+    background-color: #c8102e;
+}

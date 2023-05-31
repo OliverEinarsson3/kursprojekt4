@@ -1,0 +1,87 @@
+body {
+  background-image: url(bakgrund2.avif); /*bakgrund*/
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+#backgorund-image{ /*opacity så man ser köprutorna*/
+    opacity: 0.5;
+}
+
+.products{  /*resten är bara style till rutorna så att dem ser bra ut och inte gpr utanför skärmen*/
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 4%;
+    font-size: 200%;
+    gap: 5%;
+    row-gap: 8%;
+    margin-left: 8%;
+    margin-bottom: 10%;
+}
+
+#biljettruta{
+    display: flex;
+    height: 95%;
+    width: 130%;
+    gap: 5%;
+    flex-direction: column;
+    margin-top: 2%;
+    text-decoration: none !important;
+    color: black !important;
+    border: black;
+    background-color: lightgray;
+    opacity: 0.8;
+    
+}
+
+#addToCart{
+    margin-bottom: 30%;
+    width: 50%;
+    margin-left: 25%;
+}
+
+
+
+#biljettruta img{
+    width: 80%;
+    height: 50%
+}
+
+#biljettruta span{
+    font-size: 100%;
+    text-decoration: none !important;
+}
+
+#biljettruta h5{
+    font-size: 100%;
+
+} 
+
+
+
+a:hover{
+    text-decoration: none !important;
+    color: black !important; 
+}
+
+#biljettruta a{
+    color: black !important;
+    text-decoration: none !important;
+}
+
+
+  
+  a:visited {
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  a:active {
+    text-decoration: underline;
+  }
+

@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Beställningdetaljer</title>
+    <link rel="stylesheet" href="main.css">
+    <link rel="stylesheet" href="checkout.css">
+</head>
+<body>
+    <div id="topbarMain"> <!--knapparna som vanligt, för att navigera genom sidan-->
+        <img src="formula-1.png" alt="f1">
+        <div id="cart">
+            <a href="cart.html"><img src="cart.png" alt="cart"></a>
+        </div>
+    
+    <div id="topbarNav">
+        
+        <button type="button" onclick="location.href='index.html';">
+            Hem
+        </button>
+       <button type="button" onclick="location.href='förare.html';">
+            Förare
+        </button>
+        <button type="button" onclick="location.href='teams.html';">
+            Teams
+        </button>
+        <button type="button" onclick="location.href='constructor.html';">
+            Constructors
+        </button>
+        <button type="button" onclick="location.href='standings.html';">
+            Standings
+        </button>
+        <button type="button" onclick="location.href='schedule.html';">
+            Race
+        </button>
+        <button type="button" onclick="location.href='bilen.html';">
+            Bilen
+        </button>
+        <button type="button" onclick="location.href='biljetter.html';">
+            Biljetter
+        </button>
+        <button type="button" onclick="location.href='kontakt.html';">
+            Kontakt
+        </button>
+    
+        
+
+
+
+    </div>
+
+    </div>
+
+    <div class="form-container"> <!--samma som i css, tagen från en annan hemsida, men är inte ett viktigt element i hemsidan-->
+        <form>
+          <div class="form-group">
+            <label for="fullname">Full Name</label>
+            <input type="text" id="fullname" name="fullname" required>
+          </div>
+      
+          <div class="form-group">
+            <label for="address">Address</label>
+            <input type="text" id="address" name="address" required>
+          </div>
+      
+          <div class="form-group">
+            <label for="city">City</label>
+            <input type="text" id="city" name="city" required>
+          </div>
+      
+          <div class="form-group">
+            <label for="state">State</label>
+            <input type="text" id="state" name="state" required>
+          </div>
+      
+          <div class="form-group">
+            <label for="zip">Zip Code</label>
+            <input type="text" id="zip" name="zip" required>
+          </div>
+      
+          <div class="form-group">
+            <label for="cardname">Name on Card</label>
+            <input type="text" id="cardname" name="cardname" required>
+          </div>
+      
+          <div class="form-group">
+            <label for="cardnumber">Card Number</label>
+            <input type="text" id="cardnumber" name="cardnumber" required>
+          </div>
+      
+          <div class="form-group">
+            <label for="expdate">Expiration Date</label>
+            <input type="text" id="expdate" name="expdate" required>
+          </div>
+      
+          <div class="form-group">
+            <label for="cvv">CVV</label>
+            <input type="text" id="cvv" name="cvv" required>
+          </div>
+      
+          <button type="submit">Submit Order</button>
+        </form>
+      </div>
+      
+      
+      
+    
+</body>
+</html>

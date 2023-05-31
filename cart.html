@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Checkout</title>
+    <script src="cart.js"></script>
+    <link rel="stylesheet" href="cart.css">
+    <link rel="stylesheet" href="main.css">
+    <script src="shoppingcart.js"></script>
+</head>
+<body onload="loadCart()">
+    <div id="topbarMain">
+        <img src="formula-1.png" alt="f1">
+        <div id="cart">
+            <a href="cart.html"><img src="cart.png" alt="cart"></a>
+        </div>
+    
+    <div id="topbarNav"> <!--knapparna som på alla andra HTMLs för att navigera genom sidan-->
+        
+        <button type="button" onclick="location.href='index.html';">
+            Hem
+        </button>
+       <button type="button" onclick="location.href='förare.html';">
+            Förare
+        </button>
+        <button type="button" onclick="location.href='teams.html';">
+            Teams
+        </button>
+        <button type="button" onclick="location.href='constructor.html';">
+            Constructors
+        </button>
+        <button type="button" onclick="location.href='standings.html';">
+            Standings
+        </button>
+        <button type="button" onclick="location.href='schedule.html';">
+            Race
+        </button>
+        <button type="button" onclick="location.href='bilen.html';">
+            Bilen
+        </button>
+        <button type="button" onclick="location.href='biljetter.html';">
+            Biljetter
+        </button>
+        <button type="button" onclick="location.href='kontakt.html';">
+            Kontakt
+        </button>
+
+
+
+    </div>
+
+    </div>
+  <div id="cart-container"> <!--Ett table taget från W3 schools pågrund av problem med styling-->
+    <h2>Shopping Cart</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Race Name</th>
+          <th>Price</th>
+        </tr>
+      </thead>
+      <tbody id="cart-table">
+      </tbody>
+    </table>
+    <div>
+      <button onclick="clearCart()">Clear Cart</button>
+    </div>
+    <div id="landing" style="width: 500px; height: 500px; display: flex; flex-direction: row !important;"></div>
+    <button type="button" onclick="location.href='checkout.html';">Checkout</button>
+
+  
+    
+</body>
+</html>

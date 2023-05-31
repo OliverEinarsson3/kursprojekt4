@@ -1,0 +1,47 @@
+#cart-container {  /*simpel CSS tagen från min webshop*/
+    background-color: white;
+    border: 1px solid white;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+  }
+  
+  #cart {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  #cart li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid white;
+  }
+  
+  #cart li:last-child {
+    border-bottom: none;
+  }
+  
+  #cart li select {
+    width: 50px;
+    margin-left: 10px;
+  }
+  
+  #out{
+    margin-top: 0px;
+    margin-left: 500px;
+    background-color: lightgray;
+    font-size: 30px;
+    width: 140px;
+    border-radius: 10px;
+  }
+
+  
+
+#landing{
+  display: flex;
+  flex-direction: row;
+}
+

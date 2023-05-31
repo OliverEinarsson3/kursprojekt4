@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FörareInfo</title>
+    <link rel="stylesheet" href="förare.css">
+    <script src="single.js"></script>
+    <script> const params = new Proxy(new URLSearchParams(window.location.search), { /*Denna script kan jag inte, den är tagen från annan i klassen, vet inte vart den kommer ifrån*/
+        get: (searchParams, prop) => searchParams.get(prop),
+        });    
+        let value = params.id;   
+        </script>
+</head>
+<body>
+
+    <div id="förareInfo">
+        
+    </div>
+    
+    <div class="products">
+
+    </div>
+
+<script>    
+    document.addEventListener("DOMContentLoaded", function(event) {  
+            displayProducts(value)
+        });
+</script>
+
+</body>
+</html>

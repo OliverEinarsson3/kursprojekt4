@@ -1,0 +1,262 @@
+[
+    {
+        "id": 0,
+        "namn": "Max Verstappen",
+        "nummer": 33,
+        "image": "maxv.avif",
+        "tidigKarriär": "Verstappen började sin karriär i karting när han var sju år gammal. 2007 vann han det holländska mästerskapet Minimax och under 2009 vann han ytterligare två mästerskap. Under 2010 körde han det internationella KF3-mästerskapet, där han blev tvåa. Året efter vann han WSK Euro Series, under 2012 körde han KF2-mästerskapet och under 2013 vann han EM KF och KZ-mästerskapen. Under 2014 körde Verstappen i FIA European Formula Three Championship med Van Amersfoort Racing. Han blev trea i mästerskapet, bakom mästaren Esteban Ocon och tvåan Tom Blomqvist. Verstappen vann tio lopp, fler än någon annan förare under detta år. Samma år vann han den traditionella tävlingen Masters of Formula 3.[5] Han körde sedan Macau-racet i Formel 3 som är det officiella F3 VM loppet där han blev sjua.",
+        "F1Karriär": "Den 12 augusti 2014 blev Verstappen bekräftad som en av förarna i Red Bull Racings juniorprogram.[7] Sex dagar senare blev han bekräftad som en av förarna i Scuderia Toro Rosso för 2015 års säsong. [8][9] Verstappen blev vid sin debut i Australiens Grand Prix 2015 den yngsta F1-föraren genom tiderna med sina 17 år och 166 dagar, och slog därmed Jaime Alguersuaris tidigare rekord med närmare två år.[10] Den 15 maj 2016 blev Verstappen, vid enbart 18 års ålder, den yngsta vinnaren av ett F1-lopp någonsin. Detta när han i sin debut för Red Bull vann Spaniens Grand Prix före Kimi Räikkönen, Sebastian Vettel och stallkamraten Daniel Ricciardo.[11] Verstappen hade fram till starten av säsongen 2021 tagit tio segrar i Formel 1 och som bäst blivit 3:a i VM, vilket skedde under åren 2019 och 2020.[12] När Verstappen vann Abu Dhabis Grand Prix 2021 tog han hem sin första VM-titel i Formel 1 och blev därmed den första nederländska föraren att vinna ett världsmästerskap i Formel 1. Under säsongen vann han tio lopp och tog tio pole positions. Verstappen vann sin andra raka VM-titel när han kom etta i Japans Grand Prix 2022. Han vann 15 lopp och tog sju pole positions under säsongen 2022.",
+        "mästerskap": 2,
+        "vinster": 35,
+        "lag": "redbull.png",
+        "href": "förareInfo.html?id=0"
+    },
+
+    {
+        "id": 1,
+        "namn": "Lewis Hamilton", 
+        "nummer": 44,
+        "image": "lewish.avif",
+        "tidigKarriär": "Hamilton började karta 1993 och började snabbt vinna lopp och kadettklassmästerskap.[29][30] Två år senare blev han den yngsta föraren som vann det brittiska mästerskapet i kadettkart vid tio års ålder. Det året kontaktade Hamilton McLarens Formel 1-teamchef Ron Dennis vid Autosport Awards för en autograf och sa: Hej. Jag heter Lewis Hamilton. Jag vann det brittiska mästerskapet och en dag vill jag tävla med dina bilar.[19 ] Dennis skrev i Hamiltons autografbok: Ring till mig om nio år, då löser vi något.[31] När Hamilton var 12 tog Ladbrokes ett vad, till 40/1 odds, att Hamilton skulle vinna en Formel 1 lopp före 23 års ålder; en annan förutspådde, till 150/1 odds, att han skulle vinna världsmästerskapet för förare innan han var 25.[32] 1998 ringde Dennis Hamilton efter sin andra Super One-serie och brittiska mästerskapsvinster,[16] för att erbjuda Hamilton en roll i McLarens förarutvecklingsprogram.[9] Kontraktet inkluderade en option på en framtida Formel 1-plats, vilket skulle göra Hamilton till den yngsta föraren att säkra ett kontrakt som senare resulterade i en Formel 1-körning.[29]",
+        "F1Karriär": "Upon signing with Mercedes in 2013, Hamilton was reunited with his childhood karting teammate, Nico Rosberg. The move was met with surprise by pundits and the public, with some describing the move to Mercedes, a team with no recent history of success, as a gamble.[69][70] In his first season with the Silver Arrows, Hamilton secured a sole race victory, winning the Hungarian Grand Prix, where he converted an unexpected pole position into a winning margin of over 11 seconds ahead of second-place finisher Kimi Räikkönen,[71] alongside a number of podium finishes and pole positions, finishing fourth in the standings once again, the third time in five years.[68] Changes to regulations for the 2014 season, which mandated the use of turbo-hybrid engines, contributed to the start of a highly successful era for Hamilton. That year saw Mercedes win 16 of the 19 races that season, 11 of those secured by Hamilton as he prevailed in a season-long duel for the title against teammate Rosberg. Clinching his second drivers' title, and eclipsing the victory tally of all British drivers before him, Hamilton declared over team-radio after the final race in Abu Dhabi: This is the greatest day of my life.[68] New driver number regulations brought in for 2014 allowed drivers to pick a unique car number to use for their entire career, and so Hamilton elected to drive under his old karting No. 44 for the remainder of his career.[72] Before the start of the 2015 season, Hamilton announced he would not be exercising his option of switching his car number to 1, as was his prerogative as reigning World Champion, and would instead continue to race with his career No. 44. It was the first season since 1994, when Alain Prost retired from the sport following his fourth and final World Drivers' Championship title in 1993, that the field did not contain a car bearing the No. 1.[73] Hamilton dominated the 2015 season, winning ten races finishing on the podium a record seventeen times as he matched his hero Ayrton Senna's three World Championships titles. The rivalry between him and Rosberg intensified, climaxing in a heated battle at the US Grand Prix where Hamilton won in an action-packed, wheel-to-wheel battle with his teammate to clinch the title with three races to spare.[68] That year, Hamilton extended his contract with Mercedes for three additional years in a deal reportedly worth more than £100 million, making him one of the best-paid drivers in Formula One,[74][75] as well as allowing Hamilton to retain his own image rights, which is considered unusual in the sport, and keep his championship-winning cars and trophies.[76]",
+        "mästerskap": 7,
+        "vinster": 103,
+        "lag": "mercedes.png",
+        "href": "förareInfo.html?id=1"
+    },
+
+    {
+        "id": 2,
+        "namn": "Fernando Alonso", 
+        "nummer": 14,
+        "image": "feralo.avif",
+        "tidigKarriär": "Alonso skötte sitt testjobb med bravur och fick därför inför säsongen 2003 chansen att tävla för Renault när Jenson Button fick lämna stallet. Alonso parades ihop med Jarno Trulli och de blev snabbt kompisar. Fernando startade säsongen med en blygsam sjundeplats, men i Malaysia tog han pole position, som den yngste någonsin, och kom sedan trea i loppet. Att en ny stjärna var född såg man i Brasilien. Men där höll hans karriär på att få ett drastiskt slut när han körde in i Mark Webbers vrakdelar och sedan in i en mur i 250 km/h varefter loppet bröts. Alonso, som slutade trea, hade tur som klarade sig undan större skador, men han kunde inte närvara på podiet under prisceremonin. Nästa pallplats kom på hemmaplan i Spanien där han nästan slog Michael Schumacher. Alonso låg trea i förar-VM efter halva säsongen, men började sedan tappa, när Williams hittade formen. I Ungern skrev Alonso historia då han blev den yngste vinnaren någonsin. Alonso slutade som sexa i förar-VM. Paralleller började dras med Michael Schumacher, som inledde karriären under Flavio Briatore i dåvarande Benetton 1992. Säsongen 2004 började Alonso med en tredjeplats i Australien, men fortsatte ganska dåligt och låg ett tag 16 poäng efter Trulli, som låg fyra i mästerskapet. Alonso kom dock igång i Frankrike där han ledde, men under andra halvan av loppet tappade han ledningen och slutade tvåa. I Tyskland och Ungern tog han två nya tredjeplatser. Annars byggde Alonso sin säsong till stor del på fjärdeplatser och slutade också fyra i förar-VM. Alonso tog färre poäng men Trulli fick sparken och gick till Toyota. Istället körde Jacques Villeneuve i de tre sista loppen, men han var chanslös mot Alonso.",
+        "F1Karriär": "Alonso debuterade i formel 1 2001. Hans definitiva genombrott kom säsongen 2005 då han blev världsmästare i Formel 1. Alonso var då den yngste som erövrat mästartiteln i den racingklassen. Genom vinsten i Kinas Grand Prix 2005 säkrade han också konstruktörsmästerskapet för Renault 2005. Säsongen 2006 vann Alonso sju lopp, varav fyra i följd, och kom tvåa i sju av de 18 loppen. I och med segern i Japan 2006 säkrade han i praktiken VM-titeln 2006, Alonso behövde endast en poäng till och i säsongens sista lopp kunde han relativt enkelt komma tvåa och därmed ta sin andra VM-titel. Alonso är den förste spanjoren som vunnit i Spanien, vilket han gjorde i Spaniens Grand Prix 2006. Säsongen 2007 körde Alonso för McLaren och hade inför det avslutande loppet i Brasilien chansen att ta en ny VM-titel men han slutade i stället trea i förarmästerskapet. Den 10 december 2007 blev det klart att Alonso skulle köra för Renault säsongen 2008 vilket han även gjorde säsongen 2009. Alonso skulle inte komma till start i Valencia för att Renault var avstängda på grund av att han tappade ena framdäcket i Ungern, men överklagan gjorde att han kunde starta. Efter att en skandal kring Renault och en avsiktlig krasch av Nelson Piquet Jr. för att Alonso skulle vinna Singapores Grand Prix 2008 frikändes Alonso, vilket ledde till att han kunde skriva på för Ferrari.",
+        "mästerskap": 2,
+        "vinster": 37,
+        "lag": "astonmartin.png",
+        "href": "förareInfo.html?id=2"
+    },
+
+    {
+        "id": 3,
+        "namn": "Valtteri Bottas", 
+        "nummer": 77,
+        "image": "valtteri.avif",
+        "tidigKarriär": "Bottas startade sin karriär med karting vid sex års ålder. Mellan 2004 och 2006 vann han fem olika kartingmästerskap: Finnish Championship ICA Junior, Viking Trophy - ICA, WSK International Series Formula A, Finnish Championship ICA och Finnish Championship Formula A. Efter framgångarna i karting började han köra Formula Renault 2.0 Northern European Cup 2007. Han tog sex pallplaceringar, varav två segrar, under sexton lopp och blev trea i mästerskapet.[3] Han fortsatte i serien under 2008, men körde då även Formula Renault 2.0 Eurocup. Bottas dominerade den Nordeuropeiska serien,[4] och lyckades även vinna den europeiska serien.",
+        "F1Karriär": "Bottas gjorde F1-debut i Australien, och slog direkt sin stallkamrat i både kvalet och loppet.[39][40] I Malaysia blev han utslagen redan i den första kvalomgången,[41] men lyckades köra upp sig till elfte plats i loppet, drygt en sekund från poängplats.[42] I de tre nästkommande tävlingarna gick han i mål på trettonde-, fjortonde- och sextonde plats.[43][44][45] Under Monacos Grand Prix låg han länge på en elfte plats och var nära en poäng, men blev till slut tolva.[46] På Circuit Gilles Villeneuve överraskade han alla, genom att lyckas kvala in på tredje plats, strax efter de båda världsmästarna Sebastian Vettel och Lewis Hamilton.[47] Han lyckades desto sämre i loppet, då han blev fjortonde bil över mållinjen.[48] I de två nästkommande tävlingarna, Storbritanniens- och Tysklands Grand Prix, gick han i mål på tolfte respektive sextonde plats,[49][50] innan han bröt i Ungern på grund av ett transmissionshaveri.[51] Efter sommaruppehållet anlände Formel 1-cirkusen till de två höghastighetsbanorna Spa-Francorchamps och Monza, på vilka Bottas gick i mål på femtonde plats.[52][53] I Singapore startade han från den sextonde startrutan,[54] men körde upp sig tre placeringar i loppet och gick i mål på trettonde plats.[55] I Korea var han återigen strax utanför poängplats, då han gick i mål på tolfte plats.[56] Tävlingarna i Japan, Indien och Abu Dhabi blev mindre lyckade och Bottas långt ifrån poängplats.[57][58][59]",
+        "mästerskap": 0,
+        "vinster": 10,
+        "lag": "alfaromeo.webp",
+        "href": "förareInfo.html?id=3"
+    },
+
+    {
+        "id": 4,
+        "namn": "Charles Leclerc", 
+        "nummer": 16,
+        "image": "leclerc.avif",
+        "tidigKarriär": "Leclerc began his karting career in 2005, winning the French PACA Championship in 2005, 2006, and 2008.[10] In 2009 he became French Cadet champion before moving up to the KF3 class in 2010, where he won the Junior Monaco Kart Cup.[11] He continued in the KF3 class for 2011, winning the CIK-FIA KF3 World Cup, the CIK-FIA Karting Academy Trophy and the ERDF Junior Kart Masters.[12] During the year, Leclerc also became a member of Nicolas Todt's All Road Management company.[13] Leclerc graduated to the KF2 category in 2012 with the factory-backed ART Grand Prix team, winning the WSK Euro Series title,[14] as well as finishing runner-up in the CIK-FIA European KF2 Championship and the CIK-FIA Under 18 World Karting Championship.[15] In his final year of karting in 2013, Leclerc won the South Garda Winter Cup and claimed sixth position in the CIK-FIA European KZ Championship and finished second in the CIK-FIA World KZ Championship, behind current Red Bull Formula One driver Max Verstappen.[16]",
+        "F1Karriär": "Scuderia Ferrari signed Leclerc for the 2019 season, replacing 2007 World Champion Kimi Räikkönen, who took his place at Sauber (now Alfa Romeo).[58][59] While initially only announced for 2019, a few days later, then-Ferrari team principal Maurizio Arrivabene indicated that Leclerc's contract was going to be four seasons long, running at least until 2022.[60] Leclerc made his first test day as an official Ferrari race driver in November 2018 during the end of season test.[61] In his first Grand Prix driving for Ferrari, he started and finished in the fifth position at the Australian Grand Prix. In his second qualifying for Ferrari, at the Bahrain Grand Prix, he qualified on pole position for the first time in his Formula One career, having the fastest times in two of the three practice sessions and in all three qualifying sessions, setting a new track record, and becoming the youngest Ferrari pole-sitter.[62][63] Leclerc led for the majority of the race, but lost the lead and was overtaken by Lewis Hamilton and Valtteri Bottas due to his engine dropping a cylinder with a failed fuel injector. A late-race safety car prevented the charging Max Verstappen from taking third place, leading to the first podium of Leclerc's Formula One career.[64]",
+        "mästerskap": 0,
+        "vinster": 5,
+        "lag": "ferrari.png",
+        "href": "förareInfo.html?id=4"
+    },
+
+    {
+        "id": 5,
+        "namn": "Carlos Sainz", 
+        "nummer": 55,
+        "image": "carloss.avif",
+        "tidigKarriär": "Född i Madrid började Sainz sin karriär inom karting. 2008 vann han Asien-Stillahavstiteln KF3, samt slutade tvåa i det spanska mästerskapet.[9] 2009 vann han den prestigefyllda Junior Monaco Kart Cup och var tvåa i European KF3 Championship.[9]",
+        "F1Karriär": "Sainz became part of the Red Bull Junior Team in 2010.[10] His first experience in a Formula One car came at the young drivers' test at Silverstone Circuit in July 2013, where he drove both the Toro Rosso STR8 and the Red Bull RB9.[11][12] Sainz confirmed that discussions had taken place with the struggling Caterham team for a race debut during the 2014 season but ultimately no agreement was reached.[13] As a reward for his Formula Renault 3.5 Series title, Sainz drove the Red Bull RB10 in the post-season test after the 2014 Abu Dhabi Grand Prix.[14]",
+        "mästerskap": 0,
+        "vinster": 1,
+        "lag": "ferrari.png",
+        "href": "förareInfo.html?id=5"
+    },
+
+    {
+        "id": 6,
+        "namn": "Lando Norris", 
+        "nummer": 4,
+        "image": "LandoN.avif",
+        "tidigKarriär": "Norris började sin racingkarriär vid sju års ålder när han tog pole position vid sitt första nationella evenemang. 2013 tävlade Norris i KF-Junior karting, vann CIK FIA European Championship och International Super Cup,[22][23] samt WSK Euro Series.[24] Året därpå vann han CIK-FIA KF World Championship med Ricky Flynn Motorsport, vilket gjorde honom till den yngste världsmästaren i karting.[25]",
+        "F1Karriär": "In February 2017, Norris was signed as a junior driver with McLaren.[31] Following the announcement, Zak Brown said that Norris was a fabulous prospect who deserved the award.[32] Later that year, Norris tested for McLaren in a scheduled mid-season test. He set the second fastest lap in the second day of testing at the Hungaroring.[33] In late 2017, Norris became the official McLaren test and reserve driver for the 2018 season.[34] Norris participated in his first official practice session at the Belgian Grand Prix, recording 26 laps.[35] Norris drove in six further practice sessions during the year.",
+        "mästerskap": 0,
+        "vinster": 0,
+        "lag": "mclaren.png",
+        "href": "förareInfo.html?id=6"
+    },
+
+    {
+        "id": 7,
+        "namn": "George Russell", 
+        "nummer": 63,
+        "image": "georger.avif",
+        "tidigKarriär": "Russell began karting in 2006 and progressed through to the cadet class by 2009, becoming MSA British champion and British Open champion. In 2010 he moved to the Rotax Mini Max category where he became Super One British champion, Formula Kart Stars British champion, and also won the Kartmasters British Grand Prix. Russell graduated to the KF3 class in 2011, winning the SKUSA Supernationals title and becoming CIK-FIA European Championship, a title he successfully defended in 2012.[12] In his final year of karting in 2013, Russell finished 19th in the KF1 CIK-FIA World Championship.[5][13]",
+        "F1Karriär": "Russell's first experience of driving a Formula One car came in October 2015; as a prize for winning the 2014 Autosport BRDC Award, he completed a test in the McLaren MP4-26 at Silverstone Circuit.[49] During 2016 he performed simulator work for Mercedes and was made part of the team's junior driver programme in early 2017.[50][51] His first test with the team came in April that year where he drove the F1 W06 Hybrid at Algarve International Circuit. This was followed in August by an appearance at the Hungaroring in-season test at the wheel of the F1 W08 EQ Power+.[52] Russell made his Grand Prix weekend debut in November, driving for Force India in the first practice sessions of the Brazilian and Abu Dhabi Grands Prix.[53] He was appointed one of Mercedes' reserve drivers for the 2018 season and again tested for the team at the in-season Hungaroring test,[54][55] as well as performing a Pirelli tyre test for Force India after the Spanish Grand Prix in May, completing 123 laps.[56][57]",
+        "mästerskap": 0,
+        "vinster": 0,
+        "lag": "mercedes.png",
+        "href": "förareInfo.html?id=7"
+    },
+
+    {
+        "id": 8,
+        "namn": "Kevin Magnussen", 
+        "nummer": 20,
+        "image": "magnus.avif",
+        "tidigKarriär": "Magnussen började sin karriär i karting. År 2008 tog han steget upp till Formel Ford i Danmark, där han vann mästerskapet. Under 2009 flyttades Magnussen upp till Formel Renault och slutade tvåa i mästerskapet. Under 2010 tävlade han i det tyska Formel 3-mästerskapet med Carlin Motorsport, Magnussen vann premiären av säsongen på Oschersleben. Han slutade trea i mästerskapet och vann rookie-titeln. Under 2011 flyttade Magnussen till det brittiska Formel 3-mästerskapet med Carlin Motorsport. År 2012 byte Magnussen serie till Formel Renault 3.5. Han vann ett race och slutade sjua i mästerskapet. Under 2013 fortsatte han i Formel Renault 3.5 där han vann fem race och hela mästerskapet.",
+        "F1Karriär": "Magnussen testade en Formel 1-bil för första gången den 6 november 2012 på ett Young Driver test i Abu Dhabi där hans bästa tid blev 1:42.651. Sträckan han körde under testet var tillräckligt för att få sin FIA Superlicens.",
+        "mästerskap": 0,
+        "vinster": 0,
+        "lag": "haas.png",
+        "href": "förareInfo.html?id=8"
+    },
+
+    {
+        "id": 9,
+        "namn": "Nico Hulkenberg", 
+        "nummer": 27,
+        "image": "nicoH.avif",
+        "tidigKarriär": "Hülkenberg inledde sin karriär med att vinna formel BMW ADAC 2005 med fem poäng före Sébastien Buemi. Efter att ha varit en av toppförarna och kommit femma i det Tyska F3-mästerskapet gick Hülkenberg vidare till A1GP för Tyskland säsongen 2006/2007 och F3 Masters på Zolderbanan 2007. Han tävlade även i F3 Euroseries för ASM F3 och slutade trots en dålig inledning på tredje plats säsongen 2007. Avslutningen på säsongen i Macaus Grand Prix var dock inte särskilt framgångsrik.",
+        "F1Karriär": "Den 2 november 2009 meddelades att Hülkenberg skulle köra Formel 1 för Williams under 2010, hans stallkamrat skulle bli Rubens Barrichello.[1] Under kvalet till Brasiliens Grand Prix tog Hülkenberg sensationellt pole position med över 1 sekund ner till tvåan, Sebastian Vettel.[2] Han kunde dock inte hålla den positionen in i mål, där han blev åtta.[3] Hülkenberg slutade på fjortonde plats i mästerskapet med 22 poäng.",
+        "mästerskap": 0,
+        "vinster": 0,
+        "lag": "haas.png",
+        "href": "förareInfo.html?id=9"
+    },
+
+    {
+        "id": 10,
+        "namn": "Guanyu Zhou", 
+        "nummer": 24,
+        "image": "zhoug.avif",
+        "tidigKarriär": "Having started karting when he was eight years old in China, Zhou moved to Sheffield in 2012 for a more competitive racing environment.[8] In 2013 racing with the Sheffield-based Strawberry Racing team, he won both the Super 1 National Rotax Max Junior Championship and Rotax Max Euro Challenge.[9][10] For his final year of karting, Zhou finished 2nd in the Rotax Max Senior Euro Challenge and participated in selected rounds of WSK Champions Cup and the KF2 European Championship. He also made his first and only appearance in the Karting World Championship, driving for Ricky Flynn Motorsport alongside Lando Norris and Jehan Daruvala.[11]",
+        "F1Karriär": "In 2014, Zhou joined the Ferrari Driver Academy while competing in karting.[6] He left the academy at the end of 2018 and joined the Renault Sport Academy the following year ahead of his move into Formula 2. He served as a development driver for the Renault F1 Team in 2019 and took part in an R.S.17 testing programme,[20] driving at five different circuits during the year.[21][22][23] He was promoted to the role of Test Driver in 2020.[24] He participated in the Virtual Grand Prix Series—an esports competition organised by Formula One in place of races postponed or cancelled due to the COVID-19 pandemic—and won the first race held at the Bahrain International Circuit.[25] Once the 2020 season resumed, Zhou took part in three test sessions driving the Renault R.S.18,[26][27] including the post-season test at Yas Marina Circuit alongside Fernando Alonso.[28] Zhou remained part of the rebranded Alpine Academy for 2021 and made his Formula One race weekend debut for Alpine F1 Team, driving the A521 during the first practice session of the Austrian Grand Prix. This made him the second driver from Mainland China to participate in a race weekend after Ma Qinghua.[29]",
+        "mästerskap": 0,
+        "vinster": 0,
+        "lag": "alfaromeo.webp",
+        "href": "förareInfo.html?id=10"
+    },
+
+    {
+        "id": 11,
+        "namn": "Yuki Tsunoda", 
+        "nummer": 22,
+        "image": "yukit.avif",
+        "tidigKarriär": "Born in Sagamihara, Kanagawa, Tsunoda started his professional karting career in 2010, joining the JAF Junior Karting Championship, before moving to the regional class in 2013 and to the national class in 2014.[4]",
+        "F1Karriär": "In August 2020, Scuderia AlphaTauri Honda Formula One team principal Franz Tost announced that Tsunoda would drive for the team in the end-of-season rookie test at Abu Dhabi in December 2020.[16] He had his first drive in a 2018-spec car at the Autodromo Internazionale Enzo e Dino Ferrari in Imola, Italy.[17] He again tested Formula One machinery at Imola in January 2021, but this time, he drove an AlphaTauri-liveried Toro Rosso STR14, Toro Rosso's 2019 car.[18]",
+        "mästerskap": 0,
+        "vinster": 0,
+        "lag": "alphatauri.webp",
+        "href": "förareInfo.html?id=11"
+    },
+
+    {
+        "id": 12,
+        "namn": "pierre Gasly", 
+        "nummer": 10,
+        "image": "pierreg.avif",
+        "tidigKarriär": "Gasly startade sin formelbilkarriär 2011 med att tävla i det franska F4-mästerskapet, i vilket han slutade på tredje plats.[1] Gasly fortsatte med att under 2012 tävla i Formula Renault 2.0 Eurocup och Formula Renault 2.0 Northern European Cup 2012.[1] Under 2013 tävlade han i Formula Renault 2.0 Alps, men fortsatte även med FR 2.0 Eurocup 2013, där han lyckades vinna titeln.[1]",
+        "F1Karriär": "Gasly gjorde debut i formel 1 för Toro Rosso vid Malaysias Grand Prix 2017.[6] Han kom senare att köra för Red Bull 2019 men flyttades tillbaka till Toro Rosso inför Belgiens Grand Prix 2019.[7]",
+        "mästerskap": 0,
+        "vinster": 1,
+        "lag": "alpine.png",
+        "href": "förareInfo.html?id=12"
+    },
+
+    {
+        "id": 13,
+        "namn": "Oscar Piastri", 
+        "nummer": 81,
+        "image": "piastri.avif",
+        "tidigKarriär": "Piastri föddes i Melbourne av italiensk-australiska föräldrar.[2] Han tävlade med radiostyrda bilar på nationell nivå innan han började sin kartingkarriär 2011.[3] Efter att ha blivit professionell och tävlat i olika australiska lopp och mästerskap 2014[4], började Piastri tävla i europeiska och andra CIK-FIA-sanktionerade kartingmästerskap med Ricky Flynn Motorsport året därpå. Han flyttade till Storbritannien för att fortsätta sin racingkarriär 2016, och slutade sexa i 2016 års världsmästerskap i Bahrain.[5][6][7]",
+        "F1Karriär": "Piastri blev del av Renault Sport Academy i januari 2020.[12][13] Efter att ha säkrat FIA Formel 3-mästerskapet 2020, belönades Piastri för sina insatser av Renault F1 med ett young drivers test i Bahrain den 31 oktober 2020 tillsammans med Christian Lundgaard och Zhou Guanyu.[14] Säsongen 2021 skulle Piastri bli en del av den omdöpta Alpine Academy tillsammans med Zhou, Lundgaard, Victor Martins och Caio Collet. Piastri är reservförare för Alpine i Formel 1-mästerskapet 2022.[15] Piastri agerar också reservförare för McLaren F1.[16] Under säsongen har han testat F1-bilar på olika banor runt om i världen.[17][18] Den 2 augusti 2022 offentliggjorde Alpine sina förare för säsongen 2023, där de menar att Piastri skulle ersätta Fernando Alonso som skrivit flerårskontrakt med Aston Martin och därmed lämnar Alpine F1.[19] Emellertid meddelade Piastri, en timme efter Alpines uttalande, via Twitter att inget kontrakt hade skrivits, och att han inte kommer att köra för teamet under säsongen 2023.[20] Den 2 september offentliggjorde McLaren F1 att de skrivit förarkontrakt med Piastri för säsongen 2023.[1]",
+        "mästerskap": 0,
+        "vinster": 0,
+        "lag": "mclaren.png",
+        "href": "förareInfo.html?id=13"
+    },
+
+    {
+        "id": 14,
+        "namn": "Estaban Ocon", 
+        "nummer": 31,
+        "image": "ocon.avif",
+        "tidigKarriär": "Esteban Ocon inledde sin racingkarriär med att köra karting år 2006, då han blev åtta i French Minima Championship, men lyckades vinna mästerskapet under det följande året. 2008 vann han French Cadet Championship och kom in i den internationella klassen 2009 och blev efter det en av förarna i Formel 1-stallet Lotus juniorprogram.[1] Ocon gjorde Formel 3-debut under Macaos Grand Prix 2013 med Prema Powerteam.[2] Under 2014 tävlade han i European Formula Three Championship med Prema,[2] och lyckades vinna mästerskapet under debutåret,[2] vilket sedermera ledde till att han fick köra det första träningspasset inför Abu Dhabis Grand Prix 2014 för Lotus.[3] I mars 2015 bekräftades att Ocon skulle tävla i GP3 Series med ART Grand Prix, och två månader senare bekräftades att han fått stöd från Mercedes.[4]",
+        "F1Karriär": "2017 körde Ocon sin första hela säsong i Formel 1. Med hjälp av en stark Force India bil slutade han på åttonde plats i mästerskapet med 87 poäng, precis efter sin stallkamrat Sergio Perez som slutade med 100 poäng. 2018 startade Ocon sin andra säsong i Formel 1 som förare för Force India. Efter en stark första säsong i Formel 1 var hans andra år något tuffare, inte minst då teamet fick slut på pengar efter att dess ägare Vijay Mallya hamnade i blåsväder med lagen. Teamet försattes i konkurs och räddades av ett konsortium lett av Lawrence Stroll som även är far till racingföraren Lance Stroll som då körde för konkurrerande racing teamet Williams. I och med köpet startade många rykten om Lawrence Strolls planer för teamet, hans son och Ocons framtid i teamet. Efter det året ers",
+        "mästerskap": 0,
+        "vinster": 1,
+        "lag": "alpine.png",
+        "href": "förareInfo.html?id=14"
+    },
+
+    {
+        "id": 15,
+        "namn": "Nyck DeVries", 
+        "nummer": 21,
+        "image": "nyckd.avif",
+        "tidigKarriär": "De Vries tävlade i Formula Renault 2.0 Eurocup och Formula Renault 2.0 Alps mellan 2012 och 2014, och vann båda serierna under sista året.[1] Under 2015 kom han på tredje plats i Formula Renault 3.5 Series för DAMS. 2016 körde han GP3 för ART och 2017 tog han steget till F2 där han stannade tills han vann mästerskapet 2019. Han började säsongen 2017 med Rapax men bytte inför tävlingen på Spa till Racing Engineering, där han blev stallkamrat med Gustav Malja.[5] 2018 körde han för Prema och 2019 för ART.",
+        "F1Karriär": "De Vries gjorde debut i Formel 1 i Italiens Grand Prix 2022 där han ersatte Alexander Albon i Williams.[2] I loppet kom han på nionde plats och tog därmed sina första VM-poäng. Han blev även utsedd till Driver of the day.[3] Nyck blev den 8 oktober 2022 klar för Scuderia AlphaTauri inför säsongen 2023.[4]",
+        "mästerskap": 0,
+        "vinster": 0,
+        "lag": "alphatauri.webp",
+        "href": "förareInfo.html?id=15"
+    },
+
+    {
+        "id": 16,
+        "namn": "Logan Sargeant", 
+        "nummer": 2,
+        "image": "logans.avif",
+        "tidigKarriär": "Sargeant began his motorsport career in karting in 2008. In his first year, he competed in the Rotax Micro Max class in regional and national championships, finishing third in the Florida Winter Tour and the Rotax Max Challenge USA. Sargeant later moved to Europe, where he competed in the ROK Cup International Final, Trofeo Delle Industrie, and WSK Euro Series.[4]",
+        "F1Karriär": "In October 2021, on the weekend of the United States Grand Prix, Sargeant was announced to be joining the Williams Driver Academy.[26][27] He got his first taste of F1 machinery at the post-season test driving the Williams FW43B on the Yas Marina Circuit.[28] He described his first time in an F1 car as an experience of a lifetime.[29]",
+        "mästerskap": 0,
+        "vinster": 0,
+        "lag": "williams.webp",
+        "href": "förareInfo.html?id=16"
+    },
+
+    {
+        "id": 17,
+        "namn": "Alex Albon", 
+        "nummer": 23,
+        "image": "alexa.avif",
+        "tidigKarriär": "Albon started competitively racing karts in 2005 at the age of 8, competing locally and winning his local Hoddesdon Championship. In 2006 Albon started racing in the cadet class, finishing 1st at the Kartmasters British Grand Prix and participating in the Super 1 National Honda Cadet Championship finishing 1st in 2006 and 2nd in 2007. In 2008 he moved up to the KF3 class where he stayed until 2010. During this time Albon won the Kartmasters British Grand Prix, Formula Kart Stars Championship, KF Winter Series, Super 1 National KF3 Championship, CIK-FIA World Cup, and CIK-FIA European Championship. In 2011 Albon graduated to KF1 placing 2nd in the WSK Euro Series and 2nd at the CIK-FIA World Championship.",
+        "F1Karriär": "Albon returned to a Formula One race seat in 2022 with Williams, replacing George Russell and partnering former Formula 2 teammate Nicholas Latifi.[7] Red Bull team principal Christian Horner revealed that Albon retained a link to Red Bull and that the team had an option to recall him for 2023.[45]        ",
+        "mästerskap": 0,
+        "vinster": 0,
+        "lag": "williams.webp",
+        "href": "förareInfo.html?id=17"
+    },
+
+    {
+        "id": 18,
+        "namn": "Sergio Perez", 
+        "nummer": 11,
+        "image": "image.avif",
+        "tidigKarriär": "Pérez began his career in karting at the age of six in 1996.[21] In his first year of competition he achieved four victories in the junior category and claimed the runner-up spot in the category. In 1997, he participated in the karting Youth Class, where he was the youngest driver in the category and earned a win and five podium finishes and finished fourth in the championship.",
+        "F1Karriär": "On 4 October 2010, Sauber announced that Pérez would join the team in 2011, replacing Nick Heidfeld. Sauber subsequently announced a partnership with Pérez's sponsor Telmex.[25] He became the fifth Mexican to compete in Formula One, and the first since Héctor Rebaque competed between 1977 and 1981. He also became a member of the Ferrari Driver Academy scheme in October 2010.[26]",
+        "mästerskap": 0,
+        "vinster": 4,
+        "lag": "redbull.png",
+        "href": "förareInfo.html?id=18"
+    },
+
+    {
+        "id": 19,
+        "namn": "Lance Stroll", 
+        "nummer": 18,
+        "image": "lances.avif",
+        "tidigKarriär": "Like many race drivers, the Geneva-based Canadian began his motorsport career in karting at the age of 10.[14] He recorded numerous race and championship wins in his native Canada and North America and in 2008, his first year of karting, he won the Federation de Sport Automobile du Quebec rookie of the year award and driver of the year in 2009.[14][15] In 2010, Stroll became a member of the Ferrari Driver Academy.[16]",
+        "F1Karriär": "Stroll drove for the Williams team for the 2017 Formula One season, partnering Felipe Massa. He became the first Canadian Formula One driver since the 1997 World Drivers' Champion Jacques Villeneuve.[19] Reportedly, Stroll's father Lawrence paid $80 million to Williams prior to his Formula One debut.[20][17] Stroll crashed in practice for his debut race, the Australian Grand Prix, and received a grid penalty as this necessitated an unscheduled gearbox change.[21] He retired from the race with a brake failure. Two more retirements followed after collisions with Sergio Pérez at the Chinese Grand Prix and Carlos Sainz Jr. at the Bahrain Grand Prix. Stroll's first race finish came at the Russian Grand Prix, where he finished in eleventh despite spinning on the first lap.[22] He retired with a brake failure at the Monaco Grand Prix, but was still classified fifteenth. Stroll scored his first Formula One points at his home Grand Prix in Montreal, finishing in ninth place.",
+        "mästerskap": 0,
+        "vinster": 0,
+        "lag": "astonmartin.png",
+        "href": "förareInfo.html?id=19"
+    }
+
+]
