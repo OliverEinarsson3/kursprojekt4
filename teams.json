@@ -1,0 +1,143 @@
+[
+
+    {
+        "id": 0,
+        "namn": "RedBull",
+        "vinster": 95,
+        "image": "redbull.png",
+        "podium": 239,
+        "championships": 6,
+        "race": 351,
+        "historia": "Stallet etablerades hösten 2004 då man köpte Jaguar Racing från Ford Motor Company när det lämnade racingen. Red Bull gjorde en bra första säsong 2005. Man samlade då ihop 34 poäng och slutade sjua i konstruktörsmästerskapet, mycket tack vare David Coulthard som tog 24 poäng och kom på tolfte plats i förarmästerskapet. Säsongen 2006 kom Red Bull på sjunde plats och 2007 på femte plats i konstruktörsmästerskapet. Inför 2007 rekryterade Red Bull Racing Adrian Newey som chefsdesigner från McLaren. Newey har gott rykte, vilket ökade förväntningarna på stallet. David Coulthard lade av och ersätts av Sebastian Vettel tillsammans med Mark Webber i stallet säsongen 2009 . Red Bulls första pole position, första seger och dessutom första dubbelseger kom i Kina 2009. Stallet satte sedan sitt första snabbaste varv och tog sin andra dubbelseger i Storbritannien 2009. Det blev sedan en ny dubbelseger i det följande loppet i Tyskland 2009. 2010 vann de både konstruktörsmästerskapet samt förarmästerskapet, Sebastian Vettel blev världsmästare i sista deltävlingen. Han hade aldrig första platsen i mästerskapet under hela året, utan låg 3:a inför sista tävlingen där allt gick vägen för Vettel som ledde loppet från start till mål och tog då Red Bull's konstruktörstitel samt att han blev den yngsta världsmästaren någonsin. Sebastian Vettels goda form höll i sig även 2011, 2012 och 2013 då han vann förartiteln i Formel 1. Red Bull Racing vann konstruktörstiteln alla dessa år. Red Bull meddelade att Sergio Pérez som tidigare kört för Racing Point kom till att ersätta Alexander Albon och Albon kommer i stället vara reservförare åt stallet. Detta är första gången på länge som en förare utanför Red Bull-programmet får köra i stallet.[2]",
+        "lagbild": "redbullbil.png",
+        "href": "teamsInfo.html?id=0"
+
+    },
+
+    {
+        "id": 1,
+        "namn": "Ferrari",
+        "vinster": 241,
+        "image": "ferrari.png",
+        "podium": 793,
+        "championships": 16,
+        "race": 1055,
+        "historia": "Ferrari debuterade i formel 1-VM 1950 i Monacos Grand Prix. Man hade två bra förare, Alberto Ascari och Luigi Villoresi. Alfa Romeo-stallet dominerade dock säsongen 1950 och vann sex av loppen. Ferrari slog igenom säsongen 1951 när José Froilán González vann Storbritanniens Grand Prix. Säsongen efter drog sig Alfa Romeo ur formel 1. Ferrari körde 1952 med en 4-cylindrig motor, 2.0 L Ferrari Tipo 500, vilken gav seger i sju av loppen. 1952 vann Alberto Ascari förar-VM efter att ha vunnit sex lopp. 1953 vann Ascari fem lopp och tog förarmästerskapstiteln igen. Säsongen 1955 vann Ferrari endast Monacos Grand Prix och efter att Alberto Ascari förolyckats köpte stallet chassin från Lancia som benämndes Ferrari D50. Säsongen 1958 tävlade man med Ferrari 246, som emellertid inte höll måttet. Luigi Musso omkom under Frankrikes Grand Prix och Peter Collins avled efter en olycka under Tysklands Grand Prix.",
+        "lagbild": "ferraribil.png",
+        "href": "teamsInfo.html?id=1"
+
+    },
+
+    {
+        "id": 2,
+        "namn": "Mercedes",
+        "vinster": 125,
+        "image": "mercedes.png",
+        "podium": 143,
+        "championships": 8,
+        "race": 274,
+        "historia": "Mercedes deltog i formel 1 under 1954 och 1955, men drog sig ur all motorsport till följd av Le Mans-katastrofen 1955.[5] I perioder har man därefter varit motorleverantör till andra stall, innan man inför 2010 års säsong åter satsar på ett eget fabriksstall. Även om utvecklingen i formel 1 är snabb och innebär helt nya bilar varje säsong, har många nya formel 1-stall sin bakgrund i äldre stall vars verksamhet tas över av nya ägare. På så sätt slipper man bygga upp hela verksamhetsstrukturen från noll. Detta gäller även för Mercedes nya stall. Stallets bakgrund kan således spåras till Tyrrell som tävlade i sporten i många år och därefter BAR och dess period i formel 1 mellan 1999 och 2005. B.A.R. köptes sedan upp av den japanska tillverkaren Honda, och dessa tävlade under tre års tid. Resultaten var inte vad Honda hade tänkt sig, och när en ekonomisk kris kom hösten 2008 lade Honda ned stallet. Stallchefen Ross Brawn och kommersiella chefen Nick Fry köpte upp stallet, och gjorde klart med att få motorer från Mercedes inför säsongen 2009.[6] Det omdanade stallet bytte namn till Brawn GP inför den säsongen, och initialt var man ett kundteam till Mercedes. Jenson Button gjorde dock en sensationell öppning av säsongen, och blev till slut världsmästare. Stallets resultat fick Mercedes att lämna McLaren som exklusiv partner, och istället köpa 75,1 % av stallet i november 2009.[7] Stallet bytte då namn till Mercedes Grand Prix.",
+        "lagbild": "mercedesbil.png",
+        "href": "teamsInfo.html?id=2"
+
+    },
+
+    {
+        "id": 3,
+        "namn": "Aston Martin",
+        "vinster": 0,
+        "image": "astonmartin.png",
+        "podium": 4,
+        "championships": 0,
+        "race": 53,
+        "historia": "Aston Martin F1 Team, tävlar som Aston Martin Aramco Cognizant F1 Team[4], är ett brittiskt formel 1-stall som tävlar i Formel 1 sedan 2021 års säsong. De är en direkt efterföljare till Racing Point[5][6] och ägs av samma konsortium bestående av bland andra Lawrence Stroll, Silas Chou och John McCaw Jr. Konsortiet köpte 16,7% av biltillverkaren Aston Martin för 182 miljoner brittiska pund och meddelade att Aston Martin skulle återvända till F1 och vara ett fabriksstall.[7] Aston Martin som bilmärke har dock redan tävlat i F1, det var säsongerna 1959 och 1960 tillsammans med David Brown Corporation.[8] Den 7 januari 2021 tillkännagav Aston Martin att Cognizant kom till att bli en titelsponsor.[9][10] I februari meddelade Aston Martin att BWT kom till att stanna kvar som partner med stallet.[11] Den 3 februari 2022 blev det känt att stallet hade signerat ett avtal med den saudiska petroleumbolaget Saudi Aramco om att bland annat ha Aramco som en del av tävlingsnamnet från och med 2022 års säsong.[4]",
+        "lagbild": "astonmartinbil.png",
+        "href": "teamsInfo.html?id=3"
+
+    },
+
+    {
+        "id": 4,
+        "namn": "Alpine",
+        "vinster": 1,
+        "image": "alpine.png",
+        "podium": 2,
+        "championships": 0,
+        "race": 47,
+        "historia": "Alpine F1 Team är ett brittiskbaserat franskt formel 1-stall som debuterade i Formel 1 till 2021 års säsong. De är en direkt efterföljare till Renault F1 och namnet Alpine är från bilmärket Alpine, som ägs av just Renault F1:s ägare Renault. Eftersom bilmärket är ett dotterbolag till Renault så kommer Alpine F1 fortfarande vara klassificerat som ett fabriksstall i Formel 1.[3][4]",
+        "lagbild": "alpinebil.png",
+        "href": "teamsInfo.html?id=4"
+
+    },
+
+    {
+        "id": 5,
+        "namn": "Mclaren",
+        "vinster": 183,
+        "image": "mclaren.png",
+        "podium": 494,
+        "championships": 8,
+        "race": 931,
+        "historia": "McLaren, tävlar som McLaren F1 Team, är en brittisk formelbiltillverkare med ett framgångsrikt formel 1-stall som grundades av Bruce McLaren 1963. Stallet har tävlat i en rad olika motorsporter, men är mest kända inom formel 1. McLarens ägs av McLaren Group. Mercedes är sedan 2021 stallets motorleverantör. 1990 grundades McLaren Cars, numera McLaren Automotive, som tillverkar snabba bilar för gatubruk. Den mest kända modellen är McLaren F1; modellnamnet anknyter förstås till McLarens framgångar inom formel 1 men betyder inte att bilen är en formel 1-bil. Sedan formel 1-stallet inledde sitt samarbete med Mercedes, har McLaren också kommit att ingå som del av modellnamnet i sportbilen Mercedes-Benz SLR McLaren. Säsongen 2007 diskvalificerades McLaren från konstruktörsmästerskapet på grund av att man på ett otillbörligt sätt innehaft tekniska data från konkurrentstallet Ferrari.",
+        "lagbild": "mclarenbil.png",
+        "href": "teamsInfo.html?id=5"
+
+    },
+
+    {
+        "id": 6,
+        "namn": "AlphaTauri",
+        "vinster": 1,
+        "image": "alphatauri.webp",
+        "podium": 2,
+        "championships": 0,
+        "race": 64,
+        "historia": "In September 2019, Toro Rosso announced their intention to change their naming rights for the 2020 championship.[8] It was announced on 1 December 2019 that the team had selected AlphaTauri as their new moniker to promote parent company Red Bull's fashion label of the same name by purchasing Toro Rosso's naming rights. Thus, they became Scuderia AlphaTauri and retired the Scuderia Toro Rosso moniker after fourteen years.[9] The team's involvement in Formula One can be traced back to the 1985 season when they first competed as Minardi. The team has been owned by Red Bull GmbH since the 2006 season.",
+        "lagbild": "alphatauribil.png",
+        "href": "teamsInfo.html?id=6"
+
+    },
+
+    {
+        "id": 7,
+        "namn": "Alfa Romeo",
+        "vinster": 10,
+        "image": "alfaromeo.webp",
+        "podium": 26,
+        "championships": 2,
+        "race": 194,
+        "historia": "Scuderia Alfa Romeo startades av biltillverkaren Alfa Romeo 1918. Stallet var med när formel 1 hade premiär 1950. De två första formel 1-världsmästarna körde båda för Alfa Romeo. Man använde egna motorer och även andra stall körde med Alfa Romeo-motorer. Scuderia Alfa Romeo lades ner 1985 efter att inte ha kvalat in i något lopp under sin sista säsong. Eftersom Alfa Romeo sedan 1986 ingår i Fiat-koncernen, som också äger Ferrari och därmed dess framgångsrika formel 1-stall Scuderia Ferrari, är det inte troligt att Alfa Romeo kommer att göra comeback i formel 1. Alfa Romeo var tillbaka i F1 år 2018 genom ett samarbete med Sauber. Marcus Ericsson kommer tillsammans med F1 nykomlingen Chales Leclerc att köra för Alfa Romeo Sauber. Under 2019 så ändrades namnet till Alfa Romeo Racing. Förare var Kimi Räikkönen som försteförare och Antonio Giovinazzi som andreförare fram till säsongen 2021. I säsongen 2022 kör Valtteri Bottas och Zhou Guanyu för Alfa Romeo.",
+        "lagbild": "alfaromeobil.png",
+        "href": "teamsInfo.html?id=7"
+
+    },
+
+    {
+        "id": 8,
+        "namn": "Haas",
+        "vinster": 0,
+        "image": "haas.png",
+        "podium": 0,
+        "championships": 0,
+        "race": 147,
+        "historia": "Haas Formula LLC, som tävlar under namnet Haas F1 Team, är ett amerikanskt Formel 1-stall grundat 2014 av Gene Haas, ägare av Haas Automation och delägare i Nascarstallet Stewart-Haas Racing. Stallet var planerat att debutera 2015,[6] men Haas valde att skjuta upp det till 2016.[7] Haas har valt att anlita den italienska formelbilstillverkaren Dallara till att designa och bygga deras bil,[8] och Ferrari levererar motorenheten.[9]Den 5 mars 2022 meddelade Haas att de avbryter samarbetet med föraren Nikita Mazepin med omedelbar effekt, efter Rysslands invasion av Ukraina. Haas avslutar även samarbetet med sponsorn Uralkali.[10][11][12] Haas meddelade den 9 mars 2022 att Kevin Magnussen återvänder till stallet och fyller den tomma platsen som Mazepin lämnat.[13]",
+        "lagbild": "haasbil.png",
+        "href": "teamsInfo.html?id=8"
+
+    },
+
+    {
+        "id": 9,
+        "namn": "Williams",
+        "vinster": 114,
+        "image": "williams.webp",
+        "podium": 313,
+        "championships": 9,
+        "race": 790,
+        "historia": "Stallet grundades av Frank Williams 1969 men började inte tävla med egna bilar förrän 1977. Williams etablerade sig som ett mästarstall under 1980- och 1990-talen då man erövrade nio konstruktörsmästerskapstitlar och då sju av stallets förare vann världsmästerskapet. Williams mörkaste ögonblick var när den fenomenale formel 1-föraren Ayrton Senna omkom strax efter starten i San Marinos Grand Prix på Imola 1994. Det var Sennas tredje tävling för dåvarande Rothmans Williams-Renault. Efter säsongen 2005 upphörde samarbetet med BMW, som etablerade ett eget stall, BMW Sauber.",
+        "lagbild": "williamsbil.png",
+        "href": "teamsInfo.html?id=9"
+
+    }
+
+]

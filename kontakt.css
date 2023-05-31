@@ -1,0 +1,44 @@
+*{
+    background-color: lightgray;
+}
+
+#kontakt{
+    
+}
+
+#kontakt header{ /*bara lite simpel CSS för knotaktsidan gjord under stress för att bli klar*/
+    display: flex;
+    align-items: center;
+    margin-left: 40%;
+    margin-top: 5%;
+    font-size: 400%;
+    text-decoration: underline;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#kontakt h1{
+    font-size: 100%;
+    margin-top: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+#kontaktinfo {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  #kontaktinfo ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  #kontaktinfo li {
+    margin-bottom: 5px;
+    font-size: 16px;
+  }

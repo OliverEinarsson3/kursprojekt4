@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    scroll-behavior: smooth;
+    
+}
+
+
+
+table {
+    font-size: 350%;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th { /*första raden*/
+    background-color: lightgray;
+    font-weight: bold;
+  }
+  
+  tr:nth-child(even) {
+    background-color: lightgray;  /*Någon hjälpte mig med den här, kommer inte ihåg vem, den är för att göra varanna grå*/
+  }

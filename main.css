@@ -1,0 +1,170 @@
+*{                      /*Css för mycket på hemidan, huvudsakligen topbaren som man navigerar sidan med*/
+    margin: 0;
+    scroll-behavior: smooth;
+}
+
+#topbarMain{
+    width: 100%;
+    height: 20%;
+    background-color: lightgray;
+    position: sticky;
+}
+
+#cart{
+    height: 15%;
+    width: 20%;
+    margin-left: 80%;
+    margin-top: -3%;
+}
+
+#topbarMain img{
+    width: 10%;
+    width: 12%;
+    margin-top: 1%;
+    margin-left: 1%;
+}
+
+#topbarNav{
+    display: flex;
+    width: 100%;
+    height: 5%;
+    margin-top: 1%;
+    background-color: red;
+    gap: 2%;
+    flex-wrap: wrap;
+}
+
+#topbarNav button{   /*väldigt överarbetad knapp som jag tror har en del rader kod som inte ändrar utseendet. Jag testade mig fram mycket och glömde vad som var viktigt. Några saker är tagna från W3schools och jag markarar dem*/
+    width: 9%;
+    border: gray;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: red;
+    border: 1px solid red;
+    border-radius: 6px;
+    box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px; /*W3schools*/
+    box-sizing: border-box;  /*W3schools*/
+    color: white;
+    cursor: pointer;
+    display: inline-block;  /*W3Schools*/
+    font-family: nunito,roboto,proxima-nova,"proxima nova",sans-serif;
+    font-size: 80% !important;
+    font-weight: 800; /*W3schools*/
+    line-height: 16px;
+    min-height: 40px;
+    outline: 0;
+    padding: 12px 14px;
+    text-align: center;
+    text-rendering: geometricprecision;  /*W3schools*/
+    text-transform: none;  /*W3schools*/
+    touch-action: manipulation; /*W3schools*/
+    vertical-align: middle;  /*W3schools*/
+    margin-left: 0.28%;
+}
+
+
+a:hover{
+    color: yellow;
+}
+
+#bilen img{
+    width: 100%;
+    height: 100%;
+}
+
+#titel{
+    display: flex;
+    margin-top: 5%;
+    align-items: center;
+    margin-left: 28%;
+    font-size: 130%;
+    text-decoration: underline;
+}
+
+#ruta1{
+    display: flex;
+    width: 80%;
+    margin-left: 5%;
+    margin-top: 5%;
+    flex-direction: row;
+    gap: 7%;
+}
+
+#ruta1 img{
+    width: 20%;
+    border-radius: 5%;
+}
+
+#ruta2{
+    display: flex;
+    width: 80%;
+    margin-left: 5%;
+    margin-top: 5%;
+    flex-direction: row;
+    gap: 7%;
+}
+
+#ruta2 img{
+    width: 20%;
+    border-radius: 5%;
+}
+
+@media only screen and (max-width: 768px) { /*responsivitet för iphone SE*/
+    #topbarMain img {
+      width: 15%;
+    }
+  
+    #cart {
+      margin-left: 70%;
+    }
+  
+    #topbarNav {
+      height: auto;
+    }
+  
+    #topbarNav button {
+      width: 45%;
+      margin-left: 2%;
+      margin-right: 2%;
+      margin-bottom: 2%;
+    }
+
+    #ruta1 img{
+        width: 100%;
+        height: 100%;
+    }
+
+    #ruta2 img{
+        width: 100%;
+        height: 100%;
+    }
+    
+    #ruta1{
+        display: flex;
+        width: 80%;
+        margin-left: 10%;
+        margin-top: 5%;
+        flex-direction: column;
+        gap: 7%;
+        font-weight: 100;
+    }
+
+    #ruta2{
+        display: flex;
+        width: 80%;
+        margin-left: 10%;
+        margin-top: 5%;
+        flex-direction: column;
+        gap: 7%;
+    }
+    
+    #titel{
+        display: flex;
+        margin-top: 5%;
+        align-items: center;
+        margin-left: 10%;
+        font-size: 130%;
+        text-decoration: underline;
+    }
+    
+    
+  }
